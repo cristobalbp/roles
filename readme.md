@@ -1,3 +1,8 @@
+<h1>Para iniciar</h1>
+<p>
+  Para habilitar roles hacer bd  llamada roles en php my admin y hacer un respectivo, artisan migarte refresh —sedd y ir a la bd y insertar atributos en la tabla permision_user y dejar como administrador el usuario previamente creado.
+</p>
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
